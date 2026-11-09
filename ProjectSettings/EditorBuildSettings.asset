@@ -6,7 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Splash Scene.unity
+    guid: 394896d6431494c2dafb988cca37a7dd
+  - enabled: 1
+    path: Assets/Scenes/Boot Scene.unity
+    guid: 0713b340c7c904100b109e783d06a92a
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 1d03663d10d5d4637bd6f9493161535c
+  - enabled: 1
+    path: Assets/Scenes/Opening-Cinematic Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Prolog.unity
+    guid: a47b66713f4ce4e9b8cb4b98083ea966
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
